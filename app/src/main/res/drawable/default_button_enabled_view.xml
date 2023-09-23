@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:colorControlHighlight">
+    <item android:id="@android:id/mask">
+        <shape>
+            <corners android:radius="@dimen/default_button_radius"/>
+            <solid android:color="?android:colorAccent"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/default_button_enabled_start_color"
+                android:endColor="@color/default_button_enabled_end_color"/>
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+</ripple>
