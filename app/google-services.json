@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "979052901216",
-    "project_id": "bitgames-ffde7",
-    "storage_bucket": "bitgames-ffde7.appspot.com"
+    "project_number": "866366951855",
+    "project_id": "win-sport-802c6",
+    "storage_bucket": "win-sport-802c6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:979052901216:android:8f38f0f6e82536bcdce405",
+        "mobilesdk_app_id": "1:866366951855:android:ac786c5e6fa89b22e9df5a",
         "android_client_info": {
-          "package_name": "one.two.three.onewin"
+          "package_name": "com.chossoodw1.sporttowin"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCPPwpdt0mmHmbZF8oQn36A2o7Qmu87r8Y"
+          "current_key": "AIzaSyAk8cnMCdmkqh_UFjc4dVwnEYIKIwN7qQY"
         }
       ],
       "services": {

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "one.two.three.onewin"
+    namespace = "com.chossoodw1.sporttowin"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "one.two.three.onewin"
+        applicationId = "com.chossoodw1.sporttowin"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
